@@ -1,5 +1,3 @@
-![Header](header.png)
-
 # Hi, I'm syntaxwhisper 👋
 
 Self-hosting enthusiast.  
